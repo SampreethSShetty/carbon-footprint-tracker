@@ -64,9 +64,17 @@ In a new terminal, navigate to the `client` directory and install the dependenci
 ```bash
 npm install
 ```
-
 Then, start the frontend development server:
-
 ```bash
 npm run dev
 ```
+Project Screenshots
+Here are the screenshots of your completed project.
+1. The Input Interface
+This is the main page of your application. The user can input values for electricity, transport, and food consumption.
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/3f6bf732-5d85-4f95-883b-cc2c0faef7fc" />
+
+
+2. The Final Output with Pie Chart
+After the user clicks "Calculate," the application displays the total carbon footprint and a pie chart that visually breaks down the footprint by category.
+<img width="1759" height="999" alt="image" src="https://github.com/user-attachments/assets/b63af869-5c7a-4684-8512-355c1bffed6f" />
