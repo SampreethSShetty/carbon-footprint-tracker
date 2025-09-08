@@ -39,9 +39,9 @@ To run this project on your machine, follow these steps:
 Navigate to the `server` directory and install the dependencies:
 ```bash
 npm install
-Then, start the server:
+### Then, start the server:
 npm start
-2. Frontend Setup
+### 2. Frontend Setup
 In a new terminal, navigate to the client directory and install the dependencies:
 
 Bash
